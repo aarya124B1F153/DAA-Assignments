@@ -1,0 +1,10 @@
+Enter number of items: 4
+Enter weight and utility value of each item:
+2 12
+1 10
+3 20
+2 15
+Enter truck capacity: 5
+
+Maximum utility: 37
+Selected items: 4 2 1 
