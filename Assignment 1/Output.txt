@@ -1,0 +1,9 @@
+Sorted by BMI
+
+Age     Height  Weight  BMI     BMI Class
+25      1.65    55      20.2    Normal
+30      1.7     60      20.8    Normal
+22      1.6     65      25.4    Overweight
+35      1.75    80      26.1    Overweight
+28      1.68    85      30.1    Obese
+
